@@ -5,7 +5,7 @@
 - Languages and tools: C++, Java, Python. 
 - Preferred IDE: VScode. Other IDE: Visual Studio
 - 👀 I’m interested in software and gaming devleopment.
-- 🌱 I’m currently learning Computer Science. Expected graduation May 2024
+- 🌱 I’m currently learning Computer Science. Expected graduation Dec 2023
 - 💞️ I’m looking to collaborate on software applications and gaming projects.
 - 📫 How to reach me ajtobey93@gmail.com/ tobey01@nsuok.edu
 
