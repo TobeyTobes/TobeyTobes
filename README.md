@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TobeyTobes my name is Austin Tobey. I'm from Tulsa, OK. 
-- Results-oriented Retail Associate specialized in customer service and technology. 
-- 10-year track record of success in exceeding customer service and sales goals. 
-- Switched to becoming a software developer.
-- Languages and tools: C++, Java, Python. 
+- Software developer and problem solver.
+- Quick to ramp up with any existing development platform and perform design, coding, debugging, and testing application and system software. 
+- Excellent interpersonal as well as communication skills and enjoys a high-pressure team environment.
+- Languages and tools: C++, Java, Python, SQL, JavaScript, HTML, CSS. 
 - Preferred IDE: VScode. Other IDE: Visual Studio
 - 👀 I’m interested in software and gaming devleopment.
 - 🌱 I’m currently learning Computer Science. Expected graduation Dec 2023
