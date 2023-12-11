@@ -7,7 +7,7 @@
 - 👀 I’m interested in software and gaming devleopment.
 - 🌱 I’m currently learning Computer Science. Expected graduation Dec 2023
 - 💞️ I’m looking to collaborate on software applications and gaming projects.
-- 📫 How to reach me ajtobey93@gmail.com/ tobey01@nsuok.edu
+- 📫 How to reach me ajtobey93@gmail.com
 
 <!---
 TobeyTobes/TobeyTobes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
